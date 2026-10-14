@@ -6,12 +6,6 @@
     <description></description>
     <language>zh-CN</language>
     <generator>GitSiteCluster</generator>
-    <item>
-      <title>你好,GitSiteCluster</title>
-      <link>https://dawsonruben371090.github.io/posts/hello-gitpress/</link>
-      <guid>https://dawsonruben371090.github.io/posts/hello-gitpress/</guid>
-      <pubDate>Mon, 28 Sep 2026 07:21:15 GMT</pubDate>
-      <description>第一篇文章:这个博客由 PHP 后台管理,文章保存在你自己的 GitHub 仓库里。</description>
-    </item>
+
   </channel>
 </rss>
